@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.14",
+  "versionCode": 17,
+  "versionName": "1.15",
   "packageName": "com.example.generadorhojadepersonaje",
   "minSdk": 28,
-  "apkUrl": "https://github.com/JoseTamayoMaluenda/CreadorFichaPersonaje-releases/releases/download/v1.14/CreadorFichaPersonaje-v1.14.apk",
-  "sha256": "ca4b0bc366afa34be1417fe604af4d67239ac6d7c289743b584035b73d5440f9",
-  "size": 14006027
+  "apkUrl": "https://github.com/JoseTamayoMaluenda/CreadorFichaPersonaje-releases/releases/download/v1.15/CreadorFichaPersonaje-v1.15.apk",
+  "sha256": "f898839ca8080c5f7fb2dd4ea12f876a0a279099ff258793cc669e9f618a7e03",
+  "size": 14022523
 }
